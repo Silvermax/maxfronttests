@@ -1,0 +1,18 @@
+{
+	"name": "silvermax/maxftonttests",
+	"description": "Frontend typography tests, ready for zurb foundation testing of typography and foundation components",
+	"type": "silverstripe-module",
+	"license": "BSD-3-Clause",
+	"keywords": ["silverstripe", "css", "fronend"],
+	"authors": [
+	{
+		"name": "Pali Ondras",
+		"email": "pali@silvermax.sk"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "3.1.*",
+		"silverstripe/cms": "3.1.*"
+	}
+}
