@@ -1,5 +1,5 @@
 {
-	"name": "silvermax/maxftonttests",
+	"name": "silvermax/maxfronttests",
 	"description": "Frontend typography tests, ready for zurb foundation testing of typography and foundation components",
 	"type": "silverstripe-module",
 	"license": "BSD-3-Clause",
