@@ -13,7 +13,7 @@ class FormTestPage_Controller extends Page_Controller {
     );
 	
 	function MyForm() {
-		$form = FoundationForm::create(
+		$form = Form::create(
 		    $this, // controller
 		    "MyForm", // form name
 		    new FieldList( // fields
